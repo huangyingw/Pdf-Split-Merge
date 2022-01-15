@@ -7,5 +7,7 @@
 "./pdfsm/pdf_split_merge.py"
 "./prunefile.conf"
 "./prunefix.conf"
+"./rsync.files"
 "./setup.cfg"
 "./setup.py"
+"dev.gdio.diff"
