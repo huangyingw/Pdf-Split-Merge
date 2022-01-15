@@ -2,3 +2,5 @@
 test.py
 test_config.txt
 __pycache__/
+dist/
+pdfsm.egg-info/
