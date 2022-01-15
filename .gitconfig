@@ -9,3 +9,5 @@
     target = gaborvecsei/master
 [push]
     remote = origin
+[gdif]
+    ignore = ./*.sh
