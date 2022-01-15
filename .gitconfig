@@ -1,1 +1,11 @@
-    git@github.com:gaborvecsei/Pdf-Split-Merge.git
+[remote "origin"]
+	url = git@github.com:huangyingw/Pdf-Split-Merge.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[remote "gaborvecsei"]
+	url = git@github.com:gaborvecsei/Pdf-Split-Merge.git 
+	fetch = +refs/heads/*:refs/remotes/gaborvecsei/*
+[gsync]
+    remote = gaborvecsei
+    target = gaborvecsei/master
+[push]
+    remote = origin
